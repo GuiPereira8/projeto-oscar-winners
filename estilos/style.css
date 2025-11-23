@@ -1,0 +1,323 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-primaria: #F4A643;
+    --cor-secundaria: #121212;
+    --cor-secundariaLight: #1E1E1E;
+    --cor-light: #FFF;
+    --cor-lightGray: #D9D5D5;
+    --font-Inter:"Inter", sans-serif;
+}
+
+body {
+    font-family: var(--font-Inter);
+    background-color: var(--cor-secundaria);
+}
+
+/* Configurações para toda página */
+
+img {
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
+
+.section-content {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.star-icon {
+    color: var(--cor-primaria);
+    margin-right: 5px;
+}
+
+
+.search-feedback {
+    color: white;
+}
+
+/* Estilo do Cabeçalho/Header */
+
+header {
+    max-width: 1440px;
+    min-height: 120px;
+    background-color: var(--cor-secundaria);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0 auto;
+    border-bottom: 2px solid #414141;
+    z-index: 5;
+}
+
+header .header-logo {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.header-logo .img-logo {
+    width: 50px;
+}
+
+.header-logo .header-text {
+    color: var(--cor-light);
+    font-size: 2.5rem;
+    /* user-select: none; */
+}
+
+header .header-busca {
+    display: flex;
+    align-items: center;
+    gap: 0px 40px;
+}
+
+.header-busca .campo-busca {
+    width: 330px;
+    height: 50px;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1rem;
+    background-color: var(--cor-secundariaLight);
+    color: var(--cor-light);
+}
+
+/* From Uiverse.io by adamgiebl */ 
+button.btn {
+  position: relative;
+  display: inline-block;
+  margin: 15px;
+  padding: 12px 30px;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: var(--cor-primaria);
+  background: transparent;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+  border: 2px solid var(--cor-primaria);
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 0 var(--cor-primaria);
+}
+
+button.btn:hover {
+  color: black;
+  box-shadow: inset 0 -100px 0 0 var(--cor-primaria);
+}
+
+button.btn:active {
+  transform: scale(0.9);
+}
+
+
+
+/* Estilo da seção principal */
+
+main {
+    height: calc(100vh - 10rem - 4rem);
+}
+
+main .section-content {
+    /* min-height: 80dvh; */
+    height: calc(100vh - 10rem - 4rem);
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-content .article-details {
+    max-width: 756px;
+    padding: 30px;
+    padding-bottom: 10px;
+    color: var(--cor-light);
+    border-radius: 18px;
+    background-color: var(--cor-secundariaLight);
+
+    transition-duration: 0.4s;
+}
+
+.section-content .article-details .movie-year {
+    color: var(--cor-lightGray);
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.section-content .article-details .movie-name {
+    color: var(--cor-primaria);
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.section-content .article-details .text-info {
+    position: relative;
+    font-size: 1.7rem;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.section-content .article-details .text-info::before {
+    content: "";
+    position: absolute;
+    left: -8px;
+    top: 5px;
+    height: 22px;
+    width: 4px;
+    background-color: #F4A643;
+    border-radius: 16px;
+}
+
+.section-content .article-details .movie-about {
+    color: var(--cor-lightGray);
+    font-size: 18px;
+    line-height: 1.7rem;
+    margin-bottom: 30px;
+}
+
+.section-content .article-details .rating-box {
+    border-top: 2px solid #414141;
+    padding: 0px 10px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 80px;
+}
+
+.section-content .article-details .rating-box > h4 {
+    font-size: 1.4rem;
+    font-weight: normal;
+}
+
+.section-content .article-details .rating-box > a {
+    color: var(--cor-primaria);
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+
+
+/* Estilo do Rodapé */
+
+.footer {
+    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
+    bottom: 0; /* Alinha na parte inferior */
+    left: 0; /* Alinha à esquerda */
+    width: 100%; /* Largura total */
+    background-color: var(--cor-secundaria); /* Cor de fundo */
+    padding: 15px 20px; /* Espaçamento interno */
+    border-top: 1px solid #3c4043; /* Borda superior */
+    font-size: 0.8rem; /* Tamanho da fonte */
+}
+
+.footer > p {
+    text-align: center;
+    color: var(--cor-lightGray);
+    margin-top: 10px;
+}
+
+.footer-location {
+    color: #9aa0a6; /* Cor do texto */
+    margin-bottom: 10px; /* Margem inferior */
+}
+
+.links-sociais {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+}
+
+.links-sociais .icon-link {
+    font-size: 1.2rem;
+    color: var(--cor-lightGray);
+}
+
+
+
+/* Estilo para Tablet 1024px */
+
+@media screen and (max-width: 1024px){
+    header {
+        border: none;
+        flex-flow: column nowrap;
+    }
+
+    header .header-busca {
+        border-top: 2px solid #1E1E1E;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    header .header-busca {
+        border-top: 2px solid #1E1E1E;
+        flex-direction: column;
+        padding-top: 10px;
+    }
+
+    main .section-content {
+        justify-content: start;
+    }
+
+    .section-content .article-details {
+        max-width: 400px;
+    }
+
+    .section-content .article-details .movie-year {
+        font-size: 14px;
+    }
+
+    .section-content .article-details .movie-name {
+        font-size: 2.5rem;
+    }
+
+    .section-content .article-details .text-info {
+        font-size: 1.4rem;
+    }
+    .section-content .article-details .text-info::before {
+        height: 18px;
+    }
+
+    .section-content .article-details .movie-about {
+        font-size: 1rem;
+    }
+
+    .section-content .article-details .rating-box > h4 {
+        font-size: 1rem;
+    }
+    .section-content .article-details .rating-box > a {
+        font-size: 1rem;
+    }
+
+    .footer {
+        display: none;
+    }
+}

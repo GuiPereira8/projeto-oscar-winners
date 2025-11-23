@@ -1,0 +1,778 @@
+[
+    {
+        "ano": 2024,
+        "premiadoEm": "(Premiado em 2025)",
+        "nome": "Anora",
+        "sinopse": "Anora, uma jovem trabalhadora do sexo do Brooklyn, tem sua vida transformada ao conhecer e casar-se impulsivamente com o filho de um oligarca russo. No entanto, seu conto de fadas é ameaçado quando os pais do noivo chegam a Nova York determinados a anular o casamento.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt28607951/"
+    },
+    {
+        "ano": 2023,
+        "premiadoEm": "(Premiado em 2024)",
+        "nome": "Oppenheimer",
+        "sinopse": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e sua eventual queda em desgraça devido à sua audiência de segurança em 1954.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt15398776/"
+    },
+    {
+        "ano": 2022,
+        "premiadoEm": "(Premiado em 2023)",
+        "nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
+        "sinopse": "Uma imigrante chinesa é arrastada para uma aventura insana, onde só ela pode salvar o mundo, explorando outros universos e se conectando com as vidas que ela poderia ter levado.",
+        "rating": "7.8/10",
+        "link": "https://www.imdb.com/title/tt6710474/"
+    },
+    {
+        "ano": 2021,
+        "premiadoEm": "(Premiado em 2022)",
+        "nome": "No Ritmo do Coração",
+        "sinopse": "Como uma CODA (filha de adultos surdos), Ruby é a única pessoa ouvinte em sua família. Quando o negócio de pesca da família é ameaçado, ela se vê dividida entre seguir seu amor pela música e seu medo de abandonar seus pais.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt10366460/"
+    },
+    {
+        "ano": 2020,
+        "premiadoEm": "(Premiado em 2021)",
+        "nome": "Nomadland",
+        "sinopse": "Depois de perder tudo na Grande Recessão, uma mulher embarca em uma jornada pelo oeste americano, vivendo como uma nômade em uma van.",
+        "rating": "7.3/10",
+        "link": "https://www.imdb.com/title/tt9770150/"
+    },
+    {
+        "ano": 2019,
+        "premiadoEm": "(Premiado em 2020)",
+        "nome": "Parasita",
+        "sinopse": "A ganância e a discriminação de classe ameaçam o relacionamento recém-formado entre a rica família Park e o pobre clã Kim.",
+        "rating": "8.5/10",
+        "link": "https://www.imdb.com/title/tt6751668/"
+    },
+    {
+        "ano": 2018,
+        "premiadoEm": "(Premiado em 2019)",
+        "nome": "Green Book: O Guia",
+        "sinopse": "Um segurança ítalo-americano da classe trabalhadora se torna o motorista de um pianista clássico afro-americano em uma turnê por locais no sul dos Estados Unidos dos anos 1960.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt6966692/"
+    },
+    {
+        "ano": 2017,
+        "premiadoEm": "(Premiado em 2018)",
+        "nome": "A Forma da Água",
+        "sinopse": "Em um laboratório de pesquisa de alta segurança na década de 1960, uma zeladora solitária forma um relacionamento único com uma criatura anfíbia que está sendo mantida em cativeiro.",
+        "rating": "7.3/10",
+        "link": "https://www.imdb.com/title/tt5580390/"
+    },
+    {
+        "ano": 2016,
+        "premiadoEm": "(Premiado em 2017)",
+        "nome": "Moonlight: Sob a Luz do Luar",
+        "sinopse": "Uma crônica atemporal e universalmente amada da autodescoberta, Moonlight narra a vida de um jovem negro desde a infância até a idade adulta, enquanto ele luta para encontrar seu lugar no mundo. A história profundamente pessoal, mas relacional, é um olhar cinematográfico sobre identidade, família, amizade e amor.",
+        "rating": "7.4/10",
+        "link": "https://www.imdb.com/title/tt4975722/"
+    },
+    {
+        "ano": 2015,
+        "premiadoEm": "(Premiado em 2016)",
+        "nome": "Spotlight: Segredos Revelados",
+        "sinopse": "Baseado em uma história real, o drama mostra um grupo de jornalistas em Boston que reúne milhares de documentos capazes de provar diversos casos de abuso de crianças, causados por padres católicos. Durante anos, líderes religiosos ocultaram os casos, transferindo os padres de paróquia em paróquia, para que o sistema não fosse descoberto.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt1895587/"
+    },
+    {
+        "ano": 2014,
+        "premiadoEm": "(Premiado em 2015)",
+        "nome": "Birdman ou (A Inesperada Virtude da Ignorância)",
+        "sinopse": "Um ator decadente, famoso por interpretar um super-herói icônico, luta para montar uma peça na Broadway. Nos dias que antecedem a noite de estreia, ele batalha contra seu ego e tenta recuperar sua família, sua carreira e a si mesmo.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt2562232/"
+    },
+    {
+        "ano": 2013,
+        "premiadoEm": "(Premiado em 2014)",
+        "nome": "12 Anos de Escravidão",
+        "sinopse": "No período pré-guerra civil dos Estados Unidos, Solomon Northup, um homem negro livre do estado de Nova York, é sequestrado e vendido como escravo. Enfrentando a crueldade, bem como gentilezas inesperadas, Solomon luta não apenas para sobreviver, mas também para manter sua dignidade.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt2024544/"
+    },
+    {
+        "ano": 2012,
+        "premiadoEm": "(Premiado em 2013)",
+        "nome": "Argo",
+        "sinopse": "Agindo sob o disfarce de um produtor de Hollywood procurando um local para um filme de ficção científica, um agente da CIA lança uma operação perigosa para resgatar seis americanos em Teerã durante a crise dos reféns no Irã em 1979.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt1024648/"
+    },
+    {
+        "ano": 2011,
+        "premiadoEm": "(Premiado em 2012)",
+        "nome": "O Artista",
+        "sinopse": "Um astro do cinema mudo encontra uma jovem dançarina, mas a chegada do cinema falado envia suas carreiras em direções opostas. O filme é uma homenagem à era do cinema mudo e explora temas de amor, orgulho e mudança.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt1655442/"
+    },
+    {
+        "ano": 2010,
+        "premiadoEm": "(Premiado em 2011)",
+        "nome": "O Discurso do Rei",
+        "sinopse": "A história do Rei George VI, sua ascensão ao trono do Império Britânico em 1936 e o fonoaudiólogo que ajudou o monarca inseguro a superar sua gagueira. O filme explora a amizade improvável entre os dois homens e a luta do rei para encontrar sua voz e liderar seu país em tempos de guerra.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt1504320/"
+    },
+    {
+        "ano": 2009,
+        "premiadoEm": "(Premiado em 2010)",
+        "nome": "Guerra ao Terror",
+        "sinopse": "Durante a Guerra do Iraque, um sargento designado para um esquadrão de descarte de bombas do Exército é colocado em conflito com seus subordinados devido à sua maneira pouco ortodoxa de lidar com seu trabalho. O filme oferece um olhar intenso e visceral sobre a psicologia da guerra e o vício da adrenalina.",
+        "rating": "7.5/10",
+        "link": "https://www.imdb.com/title/tt0887912/"
+    },
+    {
+        "ano": 2008,
+        "premiadoEm": "(Premiado em 2009)",
+        "nome": "Quem Quer Ser um Milionário?",
+        "sinopse": "Um adolescente de Mumbai reflete sobre sua educação nas favelas quando é acusado de trapacear em seu caminho para a fortuna no programa 'Quem Quer Ser um Milionário?'. Através de uma série de flashbacks, o filme conta a história de sua vida, amor e perdas.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt1010048/"
+    },
+    {
+        "ano": 2007,
+        "premiadoEm": "(Premiado em 2008)",
+        "nome": "Onde os Fracos Não Têm Vez",
+        "sinopse": "Violência e caos se seguem depois que um caçador se depara com uma cena de crime, uma picape abandonada e mais de US$ 2 milhões em dinheiro perto do Rio Grande. Ele se torna o alvo de um assassino implacável enquanto um xerife envelhecido tenta rastrear ambos.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt0477348/"
+    },
+    {
+        "ano": 2006,
+        "premiadoEm": "(Premiado em 2007)",
+        "nome": "Os Infiltrados",
+        "sinopse": "Um policial disfarçado e uma toupeira na polícia tentam se identificar enquanto se infiltram em uma gangue da máfia irlandesa no sul de Boston. O filme é um thriller tenso sobre lealdade, traição e a linha tênue entre o bem e o mal.",
+        "rating": "8.5/10",
+        "link": "https://www.imdb.com/title/tt0407887/"
+    },
+    {
+        "ano": 2005,
+        "premiadoEm": "(Premiado em 2006)",
+        "nome": "Crash: No Limite",
+        "sinopse": "Várias pessoas de Los Angeles com vidas muito diferentes colidem em histórias interligadas de raça, perda e redenção. O filme explora as tensões raciais e sociais na América moderna através de uma série de encontros casuais e violentos.",
+        "rating": "7.8/10",
+        "link": "https://www.imdb.com/title/tt0375679/"
+    },
+    {
+        "ano": 2004,
+        "premiadoEm": "(Premiado em 2005)",
+        "nome": "Menina de Ouro",
+        "sinopse": "Frankie Dunn (Clint Eastwood) passou a vida nos ringues, tendo agenciado e treinado grandes boxeadores. Magoado com o afastamento de sua filha, Frankie é uma pessoa fechada que apenas se relaciona com Scrap (Morgan Freeman), seu único amigo. Quando Maggie Fitzgerald (Hilary Swank), uma operária que sonha em ser boxeadora, o procura, ele inicialmente a rejeita, mas acaba aceitando treiná-la.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0405159/"
+    },
+    {
+        "ano": 2003,
+        "premiadoEm": "(Premiado em 2004)",
+        "nome": "O Senhor dos Anéis: O Retorno do Rei",
+        "sinopse": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam, que se aproximam da Montanha da Perdição com o Um Anel. A conclusão épica da trilogia mostra a batalha final pelo destino da Terra-média.",
+        "rating": "9.0/10",
+        "link": "https://www.imdb.com/title/tt0167260/"
+    },
+    {
+        "ano": 2002,
+        "premiadoEm": "(Premiado em 2003)",
+        "nome": "Chicago",
+        "sinopse": "Duas assassinas em busca de fama se encontram no corredor da morte e lutam pela fama que as manterá longe da forca na Chicago dos anos 1920. O filme é um musical vibrante que satiriza a cultura da celebridade e a busca pela notoriedade a qualquer custo.",
+        "rating": "7.2/10",
+        "link": "https://www.imdb.com/title/tt0299658/"
+    },
+    {
+        "ano": 2001,
+        "premiadoEm": "(Premiado em 2002)",
+        "nome": "Uma Mente Brilhante",
+        "sinopse": "Depois que John Nash, um brilhante, mas antissocial matemático, aceita um trabalho secreto de criptografia, sua vida vira um pesadelo. O filme é uma história comovente sobre a luta de um homem contra a esquizofrenia e o poder do amor para superar a adversidade.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt0268978/"
+    },
+    {
+        "ano": 2000,
+        "premiadoEm": "(Premiado em 2001)",
+        "nome": "Gladiador",
+        "sinopse": "Um ex-general romano busca vingança contra o imperador corrupto que assassinou sua família e o enviou para a escravidão. Forçado a se tornar um gladiador, ele luta para sobreviver na arena e, eventualmente, desafiar o próprio imperador.",
+        "rating": "8.5/10",
+        "link": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+        "ano": 1999,
+        "premiadoEm": "(Premiado em 2000)",
+        "nome": "Beleza Americana",
+        "sinopse": "Um pai de família suburbano sexualmente frustrado tem uma crise de meia-idade depois de se apaixonar pela melhor amiga de sua filha. O filme é uma sátira sombria e cômica da vida suburbana americana e da busca pela felicidade.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt0169547/"
+    },
+    {
+        "ano": 1998,
+        "premiadoEm": "(Premiado em 1999)",
+        "nome": "Shakespeare Apaixonado",
+        "sinopse": "Um jovem William Shakespeare, sem ideias e sem dinheiro, conhece sua mulher ideal e é inspirado a escrever uma de suas peças mais famosas. O filme é uma comédia romântica espirituosa que imagina a história de amor por trás da criação de 'Romeu e Julieta'.",
+        "rating": "7.1/10",
+        "link": "https://www.imdb.com/title/tt0138097/"
+    },
+    {
+        "ano": 1997,
+        "premiadoEm": "(Premiado em 1998)",
+        "nome": "Titanic",
+        "sinopse": "Uma aristocrata de dezessete anos se apaixona por um artista gentil, mas pobre, a bordo do luxuoso e malfadado R.M.S. Titanic. Sua história de amor proibido se desenrola em meio ao desastre iminente, criando um épico de romance e tragédia.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt0120338/"
+    },
+    {
+        "ano": 1996,
+        "premiadoEm": "(Premiado em 1997)",
+        "nome": "O Paciente Inglês",
+        "sinopse": "No final da Segunda Guerra Mundial, uma jovem enfermeira cuida de um piloto que foi terrivelmente queimado em um acidente de avião. Seu passado é mostrado em flashbacks, revelando seu envolvimento com a esposa de um colega em uma história de amor, traição e perda.",
+        "rating": "7.4/10",
+        "link": "https://www.imdb.com/title/tt0117298/"
+    },
+    {
+        "ano": 1995,
+        "premiadoEm": "(Premiado em 1996)",
+        "nome": "Coração Valente",
+        "sinopse": "O guerreiro escocês William Wallace lidera seus compatriotas em uma rebelião para libertar sua pátria da tirania do rei Eduardo I da Inglaterra. O filme é um épico histórico sobre liberdade, sacrifício e a luta de um homem por seu povo.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt0112573/"
+    },
+    {
+        "ano": 1994,
+        "premiadoEm": "(Premiado em 1995)",
+        "nome": "Forrest Gump: O Contador de Histórias",
+        "sinopse": "As presidências de Kennedy e Johnson, a Guerra do Vietnã, o escândalo de Watergate e outros eventos históricos se desenrolam através da perspectiva de um homem do Alabama com um QI de 75, cujo único desejo é se reunir com seu amor de infância. Sua jornada inocente pela história americana o leva a lugares e pessoas extraordinárias.",
+        "rating": "8.8/10",
+        "link": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "ano": 1993,
+        "premiadoEm": "(Premiado em 1994)",
+        "nome": "A Lista de Schindler",
+        "sinopse": "Na Polônia ocupada pelos alemães durante a Segunda Guerra Mundial, o industrial Oskar Schindler gradualmente se preocupa com sua força de trabalho judaica depois de testemunhar sua perseguição pelo regime nazista. Ele usa sua fábrica como um refúgio, salvando mais de 1.100 judeus do Holocausto.",
+        "rating": "9.0/10",
+        "link": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "ano": 1992,
+        "premiadoEm": "(Premiado em 1993)",
+        "nome": "Os Imperdoáveis",
+        "sinopse": "O pistoleiro aposentado William Munny relutantemente assume um último trabalho, com a ajuda de seu antigo parceiro e um jovem. O filme é um western sombrio e revisionista que desconstrói o mito do Velho Oeste e explora a natureza da violência.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt0105695/"
+    },
+    {
+        "ano": 1991,
+        "premiadoEm": "(Premiado em 1992)",
+        "nome": "O Silêncio dos Inocentes",
+        "sinopse": "Uma jovem cadete do FBI deve ter a ajuda de um assassino canibal manipulador e encarcerado para ajudar a capturar outro assassino em série, um louco que esfolava suas vítimas. O filme é um thriller psicológico arrepiante que explora a escuridão da mente humana.",
+        "rating": "8.6/10",
+        "link": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+        "ano": 1990,
+        "premiadoEm": "(Premiado em 1991)",
+        "nome": "Dança com Lobos",
+        "sinopse": "O tenente John Dunbar, enviado para um posto remoto da fronteira oeste, faz amizade com lobos e índios, tornando sua lealdade dividida. Ele abraça a cultura Sioux e se apaixona por uma mulher branca criada pela tribo, encontrando um novo propósito na vida.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt0099348/"
+    },
+    {
+        "ano": 1989,
+        "premiadoEm": "(Premiado em 1990)",
+        "nome": "Conduzindo Miss Daisy",
+        "sinopse": "Uma velha judia e seu motorista afro-americano no sul dos Estados Unidos têm um relacionamento que cresce ao longo dos anos. O filme é uma história comovente sobre amizade, envelhecimento e superação de preconceitos raciais e sociais.",
+        "rating": "7.3/10",
+        "link": "https://www.imdb.com/title/tt0097239/"
+    },
+    {
+        "ano": 1988,
+        "premiadoEm": "(Premiado em 1989)",
+        "nome": "Rain Man",
+        "sinopse": "Depois que um revendedor de carros egocêntrico descobre que seu pai falecido deixou sua fortuna para seu irmão autista, que ele não conhecia, ele faz uma viagem pelo país com seu irmão recém-descoberto. A jornada transforma os dois homens de maneiras inesperadas.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt0095953/"
+    },
+    {
+        "ano": 1987,
+        "premiadoEm": "(Premiado em 1988)",
+        "nome": "O Último Imperador",
+        "sinopse": "A história de Pu Yi, o último imperador da China, desde sua ascensão ao trono como uma criança pequena até sua prisão e reabilitação política. O filme é um épico visualmente deslumbrante que abrange décadas de turbulência política e mudança cultural na China.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0093389/"
+    },
+    {
+        "ano": 1986,
+        "premiadoEm": "(Premiado em 1987)",
+        "nome": "Platoon",
+        "sinopse": "Chris Taylor, um jovem recruta no Vietnã, enfrenta uma crise moral quando confrontado com os horrores da guerra e a dualidade do homem. Ele se vê dividido entre dois sargentos com visões opostas sobre a guerra e a moralidade.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0091763/"
+    },
+    {
+        "ano": 1985,
+        "premiadoEm": "(Premiado em 1986)",
+        "nome": "Entre Dois Amores",
+        "sinopse": "Na África Oriental do século 20, uma baronesa/proprietária de uma plantação dinamarquesa tem um caso de amor apaixonado com um caçador de grandes animais de espírito livre. O filme é um romance arrebatador ambientado na beleza deslumbrante da paisagem africana.",
+        "rating": "7.1/10",
+        "link": "https://www.imdb.com/title/tt0089755/"
+    },
+    {
+        "ano": 1984,
+        "premiadoEm": "(Premiado em 1985)",
+        "nome": "Amadeus",
+        "sinopse": "A vida, o sucesso e os problemas de Wolfgang Amadeus Mozart, contados por Antonio Salieri, o compositor contemporâneo que estava insanamente com ciúmes de seu talento e que alegou tê-lo assassinado. O filme é uma celebração exuberante da música e uma exploração sombria da inveja e da mediocridade.",
+        "rating": "8.4/10",
+        "link": "https://www.imdb.com/title/tt0086879/"
+    },
+    {
+        "ano": 1983,
+        "premiadoEm": "(Premiado em 1984)",
+        "nome": "Laços de Ternura",
+        "sinopse": "Acompanha 30 anos de relacionamento entre uma mãe e sua filha que têm uma relação difícil. O filme explora os altos e baixos de suas vidas, seus amores, perdas e o vínculo inquebrável que as une.",
+        "rating": "7.4/10",
+        "link": "https://www.imdb.com/title/tt0086425/"
+    },
+    {
+        "ano": 1982,
+        "premiadoEm": "(Premiado em 1983)",
+        "nome": "Gandhi",
+        "sinopse": "A vida do advogado Mohandas Gandhi, que se tornou o líder icônico do movimento de independência não-violento da Índia contra o domínio britânico durante o século XX. O filme retrata sua jornada de um jovem advogado a uma figura reverenciada mundialmente.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt0083987/"
+    },
+    {
+        "ano": 1981,
+        "premiadoEm": "(Premiado em 1982)",
+        "nome": "Carruagens de Fogo",
+        "sinopse": "Dois atletas de pista britânicos, um judeu determinado e um cristão devoto, competem nas Olimpíadas de 1924. O filme explora suas motivações, sua fé e sua busca pela glória pessoal e nacional.",
+        "rating": "7.2/10",
+        "link": "https://www.imdb.com/title/tt0082158/"
+    },
+    {
+        "ano": 1980,
+        "premiadoEm": "(Premiado em 1981)",
+        "nome": "Gente Como a Gente",
+        "sinopse": "A morte acidental de um de seus filhos faz com que uma família de classe alta se desfaça devido a sentimentos de culpa e tensão. O filme é um drama familiar comovente sobre luto, comunicação e a dificuldade de cura.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0081283/"
+    },
+    {
+        "ano": 1979,
+        "premiadoEm": "(Premiado em 1980)",
+        "nome": "Kramer vs. Kramer",
+        "sinopse": "Depois que sua esposa o deixa, um executivo de publicidade viciado em trabalho é forçado a cuidar de seu filho sozinho, e aprende a ser um pai melhor no processo. Mas, quando sua esposa retorna para reivindicar a custódia da criança, ele decide lutar por ela.",
+        "rating": "7.8/10",
+        "link": "https://www.imdb.com/title/tt0079417/"
+    },
+    {
+        "ano": 1978,
+        "premiadoEm": "(Premiado em 1979)",
+        "nome": "O Franco-Atirador",
+        "sinopse": "Um exame aprofundado de como a Guerra do Vietnã afeta a vida de pessoas em uma pequena cidade industrial da Pensilvânia. O filme segue três amigos desde seus dias despreocupados antes da guerra até suas experiências traumáticas no Vietnã e as dificuldades de seu retorno para casa.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0077416/"
+    },
+    {
+        "ano": 1977,
+        "premiadoEm": "(Premiado em 1978)",
+        "nome": "Noivo Neurótico, Noiva Nervosa",
+        "sinopse": "O comediante nova-iorquino Alvy Singer reflete sobre o fim de seu relacionamento com a igualmente neurótica Annie Hall. O filme é uma comédia romântica não convencional que explora os altos e baixos do amor moderno com humor e inteligência.",
+        "rating": "8.0/10",
+        "link": "https://www.imdb.com/title/tt0075686/"
+    },
+    {
+        "ano": 1976,
+        "premiadoEm": "(Premiado em 1977)",
+        "nome": "Rocky, um Lutador",
+        "sinopse": "Um boxeador de pequena expressão tem uma rara oportunidade de lutar contra o campeão dos pesos pesados em uma luta na qual ele se esforça para ir até o fim para sua auto-estima. O filme é uma história inspiradora sobre um azarão que se recusa a desistir de seus sonhos.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0075148/"
+    },
+    {
+        "ano": 1975,
+        "premiadoEm": "(Premiado em 1976)",
+        "nome": "Um Estranho no Ninho",
+        "sinopse": "Um criminoso se declara insano e é internado em uma instituição mental, onde se rebela contra a enfermeira-chefe opressiva e mobiliza os pacientes assustados. O filme é uma poderosa alegoria sobre individualidade e conformidade.",
+        "rating": "8.7/10",
+        "link": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "ano": 1974,
+        "premiadoEm": "(Premiado em 1975)",
+        "nome": "O Poderoso Chefão II",
+        "sinopse": "A vida pregressa e a carreira de Vito Corleone em Nova York nos anos 1920 são retratadas enquanto seu filho, Michael, expande e consolida seu império do crime. O filme é uma continuação e uma prequela, explorando as raízes da família Corleone e o custo do poder.",
+        "rating": "9.0/10",
+        "link": "https://www.imdb.com/title/tt0071562/"
+    },
+    {
+        "ano": 1973,
+        "premiadoEm": "(Premiado em 1974)",
+        "nome": "Golpe de Mestre",
+        "sinopse": "Dois vigaristas se unem para dar um golpe em um chefe da máfia. O filme é uma comédia de assalto elegante e divertida, cheia de reviravoltas e personagens memoráveis.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt0070735/"
+    },
+    {
+        "ano": 1972,
+        "premiadoEm": "(Premiado em 1973)",
+        "nome": "O Poderoso Chefão",
+        "sinopse": "O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante. O filme é um épico da máfia que explora temas de família, poder e o sonho americano.",
+        "rating": "9.2/10",
+        "link": "https://www.imdb.com/title/tt0068646/"
+    },
+    {
+        "ano": 1971,
+        "premiadoEm": "(Premiado em 1972)",
+        "nome": "Operação França",
+        "sinopse": "Um par de detetives de narcóticos de Nova York tropeça em uma rede de contrabando de drogas baseada na França. O filme é um thriller policial corajoso e realista, famoso por sua icônica cena de perseguição de carros.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0067116/"
+    },
+    {
+        "ano": 1970,
+        "premiadoEm": "(Premiado em 1971)",
+        "nome": "Patton, Rebelde ou Herói?",
+        "sinopse": "A carreira do controverso general da Segunda Guerra Mundial, George S. Patton. O filme é um retrato complexo de um líder militar brilhante, mas falho, e sua jornada pela guerra.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt0066206/"
+    },
+    {
+        "ano": 1969,
+        "premiadoEm": "(Premiado em 1970)",
+        "nome": "Perdidos na Noite",
+        "sinopse": "Um lavador de pratos ingênuo decide se mudar para Nova York e se tornar um gigolô, mas só consegue sucesso como um vigarista de rua. Ele e seu novo amigo, um aleijado doente, lutam para sobreviver. O filme é um retrato sombrio e comovente da amizade e da vida nas margens da sociedade.",
+        "rating": "7.8/10",
+        "link": "https://www.imdb.com/title/tt0064665/"
+    },
+    {
+        "ano": 1968,
+        "premiadoEm": "(Premiado em 1969)",
+        "nome": "Oliver!",
+        "sinopse": "Um jovem órfão foge de um asilo e se junta a um grupo de meninos treinados como batedores de carteira por um mestre do crime. O filme é uma adaptação musical do romance de Charles Dickens, 'Oliver Twist'.",
+        "rating": "7.4/10",
+        "link": "https://www.imdb.com/title/tt0063385/"
+    },
+    {
+        "ano": 1967,
+        "premiadoEm": "(Premiado em 1968)",
+        "nome": "No Calor da Noite",
+        "sinopse": "Um detetive de homicídios afro-americano é solicitado a investigar um assassinato em uma cidade racialmente hostil do Mississippi. Ele forma uma aliança relutante com o chefe de polícia local para resolver o crime.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt0061811/"
+    },
+    {
+        "ano": 1966,
+        "premiadoEm": "(Premiado em 1967)",
+        "nome": "O Homem que Não Vendeu sua Alma",
+        "sinopse": "A história de Sir Thomas More, que se opôs ao rei Henrique VIII quando o rei rejeitou a Igreja Católica para se divorciar e se casar novamente. O filme é um drama histórico sobre princípios, consciência e o conflito entre igreja e estado.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0060665/"
+    },
+    {
+        "ano": 1965,
+        "premiadoEm": "(Premiado em 1966)",
+        "nome": "A Noviça Rebelde",
+        "sinopse": "Uma jovem deixa um convento austríaco para se tornar governanta dos filhos de um oficial da Marinha viúvo. Ela traz música e alegria para a casa, mas a ascensão do nazismo ameaça a felicidade da família.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0059742/"
+    },
+    {
+        "ano": 1964,
+        "premiadoEm": "(Premiado em 1965)",
+        "nome": "Minha Bela Dama",
+        "sinopse": "Na Londres eduardiana, um professor de fonética esnobe concorda com uma aposta de que pode transformar uma florista cockney em uma dama. O filme é uma adaptação musical da peça 'Pigmalião' de George Bernard Shaw.",
+        "rating": "7.8/10",
+        "link": "https://www.imdb.com/title/tt0058385/"
+    },
+    {
+        "ano": 1963,
+        "premiadoEm": "(Premiado em 1964)",
+        "nome": "As Aventuras de Tom Jones",
+        "sinopse": "As aventuras de um jovem adotado na Inglaterra do século XVIII, desde suas origens humildes até sua vida de libertinagem e luxo. O filme é uma comédia de aventura picaresca baseada no romance de Henry Fielding.",
+        "rating": "6.4/10",
+        "link": "https://www.imdb.com/title/tt0057590/"
+    },
+    {
+        "ano": 1962,
+        "premiadoEm": "(Premiado em 1963)",
+        "nome": "Lawrence da Arábia",
+        "sinopse": "A história de T.E. Lawrence, o oficial inglês que uniu e liderou com sucesso as diversas tribos árabes durante a Primeira Guerra Mundial para lutar contra os turcos. O filme é um épico histórico visualmente deslumbrante sobre um homem extraordinário e um momento crucial da história.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt0056172/"
+    },
+    {
+        "ano": 1961,
+        "premiadoEm": "(Premiado em 1962)",
+        "nome": "Amor, Sublime Amor",
+        "sinopse": "Dois jovens de gangues de rua rivais de Nova York se apaixonam, mas as tensões entre seus respectivos amigos aumentam para uma tragédia. O filme é uma adaptação moderna de 'Romeu e Julieta', ambientada nas ruas de Nova York.",
+        "rating": "7.5/10",
+        "link": "https://www.imdb.com/title/tt0055614/"
+    },
+    {
+        "ano": 1960,
+        "premiadoEm": "(Premiado em 1961)",
+        "nome": "Se Meu Apartamento Falasse",
+        "sinopse": "Um homem tenta subir na carreira deixando os executivos usarem seu apartamento para encontros extraconjugais, mas as coisas se complicam quando ele se apaixona pela amante de seu chefe. O filme é uma comédia romântica agridoce sobre ambição, solidão e amor.",
+        "rating": "8.3/10",
+        "link": "https://www.imdb.com/title/tt0053604/"
+    },
+    {
+        "ano": 1959,
+        "premiadoEm": "(Premiado em 1960)",
+        "nome": "Ben-Hur",
+        "sinopse": "Depois que um príncipe judeu é traído e enviado para a escravidão por um amigo romano, ele recupera sua liberdade e volta para se vingar. O filme é um épico bíblico de grande escala, com uma famosa corrida de bigas e uma história de fé e redenção.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0052618/"
+    },
+    {
+        "ano": 1958,
+        "premiadoEm": "(Premiado em 1959)",
+        "nome": "Gigi",
+        "sinopse": "Cansado do estilo de vida da alta sociedade de Paris, um playboy rico encontra refúgio na companhia de uma cortesã aposentada e sua neta precoce. O filme é um musical encantador sobre amor e a transição da adolescência para a vida adulta na Belle Époque parisiense.",
+        "rating": "6.8/10",
+        "link": "https://www.imdb.com/title/tt0051658/"
+    },
+    {
+        "ano": 1957,
+        "premiadoEm": "(Premiado em 1958)",
+        "nome": "A Ponte do Rio Kwai",
+        "sinopse": "Um comandante britânico orgulhoso coopera para construir uma ponte ferroviária para seus captores japoneses, enquanto um oficial aliado planeja destruí-la. O filme é um drama de guerra psicológico sobre obsessão, dever e a loucura da guerra.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0050212/"
+    },
+    {
+        "ano": 1956,
+        "premiadoEm": "(Premiado em 1957)",
+        "nome": "A Volta ao Mundo em 80 Dias",
+        "sinopse": "Um vitoriano inglês aposta com seus amigos céticos que pode viajar ao redor do mundo em 80 dias. O filme é uma aventura colorida e divertida que leva o público a uma viagem por todo o globo.",
+        "rating": "6.7/10",
+        "link": "https://www.imdb.com/title/tt0048960/"
+    },
+    {
+        "ano": 1955,
+        "premiadoEm": "(Premiado em 1956)",
+        "nome": "Marty",
+        "sinopse": "Um açougueiro de bom coração, mas socialmente desajeitado, que se resignou à solteirice, conhece alguém que o tira de sua concha. O filme é um drama romântico realista e comovente sobre encontrar o amor em lugares inesperados.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0048356/"
+    },
+    {
+        "ano": 1954,
+        "premiadoEm": "(Premiado em 1955)",
+        "nome": "Sindicato de Ladrões",
+        "sinopse": "Um ex-boxeador que virou estivador luta para se levantar contra seus chefes corruptos do sindicato. O filme é um drama poderoso sobre corrupção, redenção e a luta de um homem por sua dignidade.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0047296/"
+    },
+    {
+        "ano": 1953,
+        "premiadoEm": "(Premiado em 1954)",
+        "nome": "A Um Passo da Eternidade",
+        "sinopse": "Em 1941, no Havaí, um soldado é cruelmente punido por se recusar a lutar boxe pela equipe de seu superior, enquanto o sargento de seu superior e a esposa do capitão têm um caso ilícito. O filme é um drama sobre as vidas e amores de soldados antes do ataque a Pearl Harbor.",
+        "rating": "7.6/10",
+        "link": "https://www.imdb.com/title/tt0045793/"
+    },
+    {
+        "ano": 1952,
+        "premiadoEm": "(Premiado em 1953)",
+        "nome": "O Maior Espetáculo da Terra",
+        "sinopse": "As vidas dramáticas de artistas de trapézio, um palhaço e um gerente de circo são exploradas em um épico sobre o circo Ringling Bros. e Barnum & Bailey. O filme é uma celebração do mundo do circo, com suas emoções, perigos e romance.",
+        "rating": "6.6/10",
+        "link": "https://www.imdb.com/title/tt0044672/"
+    },
+    {
+        "ano": 1951,
+        "premiadoEm": "(Premiado em 1952)",
+        "nome": "Sinfonia de Paris",
+        "sinopse": "Três amigos lutam para encontrar trabalho em Paris. As coisas só se complicam quando dois deles se apaixonam pela mesma mulher. O filme é um musical exuberante e romântico, com coreografias de Gene Kelly e música de George Gershwin.",
+        "rating": "7.2/10",
+        "link": "https://www.imdb.com/title/tt0043278/"
+    },
+    {
+        "ano": 1950,
+        "premiadoEm": "(Premiado em 1951)",
+        "nome": "A Malvada",
+        "sinopse": "Uma aspirante a atriz aparentemente ingênua, mas ambiciosa, se insinua na vida de uma estrela da Broadway envelhecida e de seu círculo de amigos do teatro. O filme é um drama espirituoso e cínico sobre ambição, envelhecimento e traição no mundo do teatro.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt0042192/"
+    },
+    {
+        "ano": 1949,
+        "premiadoEm": "(Premiado em 1950)",
+        "nome": "A Grande Ilusão",
+        "sinopse": "A ascensão e queda de um político sulista corrupto, que chega ao poder manipulando as massas. O filme é um drama político poderoso sobre a natureza do poder e da corrupção.",
+        "rating": "7.5/10",
+        "link": "https://www.imdb.com/title/tt0041113/"
+    },
+    {
+        "ano": 1948,
+        "premiadoEm": "(Premiado em 1949)",
+        "nome": "Hamlet",
+        "sinopse": "O príncipe Hamlet busca vingança pela morte de seu pai. Esta adaptação da tragédia de Shakespeare é um estudo sombrio e introspectivo da dor, da loucura e da vingança.",
+        "rating": "7.6/10",
+        "link": "https://www.imdb.com/title/tt0040416/"
+    },
+    {
+        "ano": 1947,
+        "premiadoEm": "(Premiado em 1948)",
+        "nome": "A Luz é Para Todos",
+        "sinopse": "Um repórter se passa por judeu para pesquisar uma série de artigos sobre anti-semitismo e descobre o fanatismo e o ódio em primeira mão. O filme é um drama social corajoso que expõe o preconceito na sociedade americana.",
+        "rating": "7.2/10",
+        "link": "https://www.imdb.com/title/tt0039416/"
+    },
+    {
+        "ano": 1946,
+        "premiadoEm": "(Premiado em 1947)",
+        "nome": "Os Melhores Anos de Nossas Vidas",
+        "sinopse": "Três veteranos da Segunda Guerra Mundial retornam para casa em uma pequena cidade do meio-oeste para descobrir que eles e suas famílias foram mudados para sempre. O filme é um retrato comovente e realista do ajuste dos soldados à vida civil.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0036868/"
+    },
+    {
+        "ano": 1945,
+        "premiadoEm": "(Premiado em 1946)",
+        "nome": "Farrapo Humano",
+        "sinopse": "A luta desesperada de um escritor alcoólatra para superar seu vício. O filme é um retrato sombrio e intransigente do alcoolismo e seus efeitos devastadores.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt0037884/"
+    },
+    {
+        "ano": 1944,
+        "premiadoEm": "(Premiado em 1945)",
+        "nome": "O Bom Pastor",
+        "sinopse": "Quando o jovem padre O'Malley chega a St. Dominic's, seus modos pouco ortodoxos não agradam ao velho padre Fitzgibbon. O filme é um drama comovente e inspirador sobre fé, amizade e a importância da comunidade.",
+        "rating": "7.0/10",
+        "link": "https://www.imdb.com/title/tt0036872/"
+    },
+    {
+        "ano": 1943,
+        "premiadoEm": "(Premiado em 1944)",
+        "nome": "Casablanca",
+        "sinopse": "Um expatriado americano cínico que dirige uma boate em Casablanca concorda em ajudar seu antigo amor e seu marido fugitivo a escaparem dos nazistas. O filme é um romance atemporal sobre amor, sacrifício e idealismo em tempos de guerra.",
+        "rating": "8.5/10",
+        "link": "https://www.imdb.com/title/tt0034583/"
+    },
+    {
+        "ano": 1942,
+        "premiadoEm": "(Premiado em 1943)",
+        "nome": "Rosa de Esperança",
+        "sinopse": "Uma família britânica luta para sobreviver aos primeiros meses da Segunda Guerra Mundial. O filme é um drama de guerra patriótico que celebra a resiliência e o espírito do povo britânico.",
+        "rating": "7.5/10",
+        "link": "https://www.imdb.com/title/tt0035093/"
+    },
+    {
+        "ano": 1941,
+        "premiadoEm": "(Premiado em 1942)",
+        "nome": "Como Era Verde o Meu Vale",
+        "sinopse": "No final da era vitoriana, a vida em uma cidade mineira galesa é vista através dos olhos de um menino. O filme é um drama familiar nostálgico e comovente sobre a perda da inocência e a desintegração de um modo de vida.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0033729/"
+    },
+    {
+        "ano": 1940,
+        "premiadoEm": "(Premiado em 1941)",
+        "nome": "Rebecca, a Mulher Inesquecível",
+        "sinopse": "Uma jovem recém-casada ingênua se vê lutando contra a sombra da falecida primeira esposa de seu marido, a misteriosa e bela Rebecca. O filme é um thriller psicológico gótico sobre ciúme, segredos e o poder do passado.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0032976/"
+    },
+    {
+        "ano": 1939,
+        "premiadoEm": "(Premiado em 1940)",
+        "nome": "...E o Vento Levou",
+        "sinopse": "Uma história de amor manipuladora em meio à Guerra Civil Americana e à Reconstrução. O filme é um épico romântico arrebatador sobre uma mulher obstinada e sua luta para sobreviver em um mundo em mudança.",
+        "rating": "8.2/10",
+        "link": "https://www.imdb.com/title/tt0031381/"
+    },
+    {
+        "ano": 1938,
+        "premiadoEm": "(Premiado em 1939)",
+        "nome": "Do Mundo Nada se Leva",
+        "sinopse": "Um homem de uma família esnobe e rica se apaixona por uma mulher de uma família adoravelmente excêntrica. O filme é uma comédia maluca que celebra o individualismo e a importância de viver a vida ao máximo.",
+        "rating": "7.9/10",
+        "link": "https://www.imdb.com/title/tt0030993/"
+    },
+    {
+        "ano": 1937,
+        "premiadoEm": "(Premiado em 1938)",
+        "nome": "A Vida de Emile Zola",
+        "sinopse": "A história do escritor francês Émile Zola e seu envolvimento no caso Dreyfus. O filme é um drama biográfico sobre a luta pela justiça e a importância da verdade.",
+        "rating": "7.2/10",
+        "link": "https://www.imdb.com/title/tt0029146/"
+    },
+    {
+        "ano": 1936,
+        "premiadoEm": "(Premiado em 1937)",
+        "nome": "Ziegfeld - O Criador de Estrelas",
+        "sinopse": "A ascensão do produtor da Broadway Florenz Ziegfeld Jr., desde seus dias como promotor de feiras até se tornar um dos maiores nomes do entretenimento. O filme é um musical biográfico extravagante que celebra o espetáculo e o glamour da Broadway.",
+        "rating": "6.6/10",
+        "link": "https://www.imdb.com/title/tt0027698/"
+    },
+    {
+        "ano": 1935,
+        "premiadoEm": "(Premiado em 1936)",
+        "nome": "O Grande Motim",
+        "sinopse": "O primeiro imediato Fletcher Christian lidera um motim contra seu capitão tirânico, William Bligh. O filme é um drama de aventura histórico baseado na história real do motim no HMS Bounty.",
+        "rating": "7.7/10",
+        "link": "https://www.imdb.com/title/tt0026752/"
+    },
+    {
+        "ano": 1934,
+        "premiadoEm": "(Premiado em 1935)",
+        "nome": "Aconteceu Naquela Noite",
+        "sinopse": "Uma herdeira mimada foge de seu pai e se apaixona por um repórter malandro. O filme é uma comédia romântica clássica que definiu o gênero e ganhou os cinco principais prêmios da Academia.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0025316/"
+    },
+    {
+        "ano": 1932,
+        "premiadoEm": "(Premiado em 1934)",
+        "nome": "Cavalgada",
+        "sinopse": "Uma crônica da vida de uma rica família inglesa e de seus servos de 1899 a 1933. O filme retrata eventos históricos importantes através das experiências pessoais da família.",
+        "rating": "5.9/10",
+        "link": "https://www.imdb.com/title/tt0023876/"
+    },
+    {
+        "ano": 1931,
+        "premiadoEm": "(Premiado em 1932)",
+        "nome": "Grande Hotel",
+        "sinopse": "Um grupo de hóspedes muito diferentes em um luxuoso hotel de Berlim lida com seus respectivos dramas. O filme é um drama de conjunto que popularizou a frase 'Eu quero ficar sozinha'.",
+        "rating": "7.3/10",
+        "link": "https://www.imdb.com/title/tt0022958/"
+    },
+    {
+        "ano": 1930,
+        "premiadoEm": "(Premiado em 1931)",
+        "nome": "Cimarron",
+        "sinopse": "Um editor de jornal se estabelece em uma cidade fronteiriça de Oklahoma com sua esposa relutante no final do século XIX. O filme é um western épico que abrange décadas de história americana.",
+        "rating": "5.9/10",
+        "link": "https://www.imdb.com/title/tt0021746/"
+    },
+    {
+        "ano": 1929,
+        "premiadoEm": "(Premiado em 1930)",
+        "nome": "Sem Novidade no Front",
+        "sinopse": "Um jovem soldado alemão enfrenta profundas desilusões na Primeira Guerra Mundial. O filme é um poderoso drama anti-guerra que mostra os horrores da guerra de trincheiras.",
+        "rating": "8.1/10",
+        "link": "https://www.imdb.com/title/tt0020629/"
+    },
+    {
+        "ano": 1928,
+        "premiadoEm": "(Premiado em 1929)",
+        "nome": "Melodia da Broadway",
+        "sinopse": "Duas irmãs de vaudeville tentam a sorte na Broadway, mas se apaixonam pelo mesmo homem. O filme foi o primeiro filme sonoro a ganhar o Oscar de Melhor Filme.",
+        "rating": "5.6/10",
+        "link": "https://www.imdb.com/title/tt0019729/"
+    },
+    {
+        "ano": 1927,
+        "premiadoEm": "(Premiado em 1929)",
+        "nome": "Asas",
+        "sinopse": "Dois jovens, um rico e um de classe média, que estão apaixonados pela mesma mulher, se tornam pilotos de caça na Primeira Guerra Mundial. O filme é um drama de guerra mudo famoso por suas espetaculares sequências de combate aéreo.",
+        "rating": "7.5/10",
+        "link": "https://www.imdb.com/title/tt0018578/"
+    }
+]
