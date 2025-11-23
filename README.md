@@ -10,8 +10,10 @@ uma sinopse (onde fala um pouco sobre o filme), nota do IMDb e o link para que v
 <h3>Como tive a ideia?</h3>
 <p>Durante as aulas da imersão da Alura eu entendi o proposito do projeto e achei bastante interessante, então pensei em ideias diferentes para fazer,
 então eu lembrei dos jogos que foram indicados para ganhar o GOTY (Game Of The Year, conhecido como o oscar dos video games) desse ano de 2025 então 
-tive a ideia de fazer esse projeto mostrando os jogos já ganharam o GOTY como melhor jogo do ano a proposta é a mesma digitar o ano e aparecer um card
-com o nome do jogo e algumas informações, mais decidi alterar a ideia de games para filmes.</p>
+tive a ideia de fazer esse projeto mostrando os jogos já ganharam o GOTY como melhor jogo do ano, a proposta era a mesma digitar o ano e aparecer um card
+com o nome do jogo e algumas informações, mais decidi alterar a ideia de games para filmes.
+E também sempre tive curiosidade de saber em que ano tal filme ganhou o oscar foi o que me motivou a construir esse projeto, pois bastava digitar o ano e
+o filme seria mostrado.</p>
 
 
 <h3>Oque gostaria de adicionar ao projeto futuramente?</h3>
