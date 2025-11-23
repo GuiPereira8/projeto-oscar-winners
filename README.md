@@ -1,11 +1,10 @@
 # projeto-oscar-winners
 Este é o projeto OscarWinners, onde a ideia é pesquisar o ano no campo de busca e ele retornará o filme que ganhou o oscar nesse ano digitado.
 
-<h2>Como Funciona?<h2/>
+<h3>Como Funciona?<h3/>
 <p>A ideia é simples onde você digitará algum ano no campo de pesquisa(a data deve ser de 1927 pra cima, pois foi o 
 ano que o oscar foi criado e onde o primeiro filme foi premiado) e aparecerá um card na tela com o nome do filme,
 uma sinopse (onde fala um pouco sobre o filme), nota do IMDb e o link para que ver o filme no site do IMDb. </p>
-
 
 
 <h3>Como tive a ideia?</h3>
