@@ -12,6 +12,7 @@ então eu lembrei dos jogos que foram indicados para ganhar o GOTY (Game Of The 
 tive a ideia de fazer esse projeto mostrando os jogos já ganharam o GOTY como melhor jogo do ano a proposta é a mesma digitar o ano e aparecer um card
 com o nome do jogo e algumas informações, mais decidi alterar a ideia de games para filmes.</p>
 
+
 <h3>Oque gostaria de adicionar ao projeto futuramente?</h3>
 <p>Algumas coisas não conseguir adicionar por falta de tempo, algumas dessas coisas são: 
 infomação dos premios que o filme recebeu (exemplo: Melhor Ator, Melhor Fotografia, Melhor Trilha sonora original e etc) e
